@@ -31,7 +31,7 @@
 
 ## 📌 Pinned Projects
 
-- 🔐 **[RL Chess Encryption](https://github.com/yourusername/rl-chess-encryption)**  
+- 🔐 **[RL Chess Encryption](https://github.com/ShougataDas/Chess-based-Data-encryption-using-CNN-RL))**  
   Reinforcement Learning-powered encryption system based on legal chess move generation and board state hashing.
 
 - 🧠 **[Pattern Recognition Toolkit](https://github.com/yourusername/pattern-recognition-toolkit)**  
