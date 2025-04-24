@@ -31,7 +31,7 @@
 
 ## 📌 Pinned Projects
 
-- 🔐 **[RL Chess Encryption](https://github.com/ShougataDas/Chess-based-Data-encryption-using-CNN-RL))**  
+- 🔐 **[RL Chess Encryption](https://github.com/ShougataDas/Chess-based-Data-encryption-using-CNN-RL)**  
   Reinforcement Learning-powered encryption system based on legal chess move generation and board state hashing.
 
 - 🧠 **[Pattern Recognition Toolkit](https://github.com/yourusername/pattern-recognition-toolkit)**  
@@ -47,16 +47,16 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShougataDas&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShougataDas&layout=compact&theme=radical)
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourprofile)
-[![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shougata-das-b858221b0/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/siuuu_on_code)
+[![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/sogu7)
 
 ---
 
