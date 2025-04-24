@@ -34,14 +34,11 @@
 - 🔐 **[RL Chess Encryption](https://github.com/ShougataDas/Chess-based-Data-encryption-using-CNN-RL)**  
   Reinforcement Learning-powered encryption system based on legal chess move generation and board state hashing.
 
-- 🧠 **[Pattern Recognition Toolkit](https://github.com/yourusername/pattern-recognition-toolkit)**  
+- 🧠 **[Pattern Recognition Toolkit](https://github.com/ShougataDas/Pattern-Recognition-toolkit)**  
   A complete collection of classification and clustering algorithms for pattern analysis projects.
 
-- 📷 **[Digital Image Processing Projects](https://github.com/yourusername/image-processing)**  
+- 📷 **[Digital Image Processing Projects](https://github.com/ShougataDas/Drawing-Canvas)**  
   Edge detection, segmentation, and filtering using OpenCV.
-
-- 🧩 **[ML on Big Data](https://github.com/yourusername/ml-big-data)**  
-  Experiments with scalable ML using Dask and large datasets.
 
 ---
 
